@@ -4,12 +4,26 @@ body {
     background-color: black;
 }
 
+/* HEADINGS */
 .header-main {
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
+.heading-secondry {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.heading-sub-header {
+    font-size: 21;
+    color: gray;
+}
+
+
+/* LINKS */
 .link {
     font-size: 16px;
     color: aquamarine;
